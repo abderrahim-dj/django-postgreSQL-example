@@ -8,6 +8,7 @@ This repository provides a sample project demonstrating how to set up and use Dj
 - PostgreSQL as the primary database backend
 - PostgreSQL database hosted and configured on the [Neon](https://neon.tech/) platform
 - Example settings and environment configuration for seamless local and cloud development
+- This part is also has a notion page [Notion](https://www.notion.so/Django-Configure-Databases-25aab55ddcc980879160fb8e3db13d82)
 
 ## Getting Started
 
@@ -69,6 +70,3 @@ This project uses [Neon](https://neon.tech/) to host and manage the PostgreSQL d
 
 This project is licensed under the MIT License.
 
----
-
-Feel free to fork, modify, and use this project as a starting point for your own Django and PostgreSQL applications!
